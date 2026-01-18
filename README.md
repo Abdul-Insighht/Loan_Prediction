@@ -16,3 +16,29 @@ to analyze various features and make accurate predictions regarding whether a lo
 - The dataset consists of two .csv files that are : 
    - Training Data - It is labeled data of 614 rows i.e, consists of features as well as targets.
    - Testing Data - It consists of only features on which predictions need to be generated.
+
+
+---
+
+## 📬 Contact
+
+**Hafiz Abdul Rehman**
+
+- 📧 Email: hafizrehman3321@gmail.com
+- 💼 LinkedIn: [Hafiz Abdul Rehman](https://linkedin.com/in/hafiz-abdul-rehman-9990ab329)
+- 🐙 GitHub: [Abdul-Insighht](https://github.com/Abdul-Insighht)
+
+---
+
+## 🌟 Show Your Support
+
+If you find this project helpful, please consider:
+
+- ⭐ **Starring** this repository
+- 🔄 **Sharing** with others
+- 🐛 **Reporting** issues
+- 💡 **Suggesting** improvements
+
+---
+
+<p align="center">Made with ❤️ by <b>Hafiz Abdul Rehman</b></p>
